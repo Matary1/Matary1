@@ -2,6 +2,8 @@
   <h1 align="center"> Matary
 
 ![Untitled](https://user-images.githubusercontent.com/92306660/151983386-29f3d0d2-45d8-4b89-a765-b0ef399d400a.png)
+   [![E-mail](https://img.icons8.com/fluency/40/000000/circled-envelope.png)](Matarykh100@gmail.com)
+
   
   
 ![image](https://user-images.githubusercontent.com/92306660/150641691-4a8e344a-5509-4d5d-9860-2644da8b8af5.png)
