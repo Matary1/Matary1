@@ -2,5 +2,7 @@
 [![E-mail](https://img.icons8.com/fluency/40/000000/circled-envelope.png)](Matarykh100@gmail.com)
 ![](https://img.shields.io/badge/Code%20Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue)
  <a href='https://discord.com/users/937083750020415499' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/937083750020415499" /></a>
+   <a href='https://discord.com/users/937083750020415499' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/937083750020415499" /></a>
+
 
 
