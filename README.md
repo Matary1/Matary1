@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Code%20Editor-VSCode-informational?style=flat&logo=visual-studio-code&style=for-the-badge&logoColor=blue)
  <a href='https://discord.com/users/937083750020415499' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/937083750020415499" /></a>
    <a href='https://discord.com/users/937083750020415499' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/937083750020415499" /></a>
+  <img alt="what the hell i am listening to" src="https://dev.discordprofiles.me/badge/spotify/937083750020415499" />
 
 
 
