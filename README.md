@@ -4,6 +4,8 @@
  <a href='https://discord.com/users/937083750020415499' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/937083750020415499" /></a>
    <a href='https://discord.com/users/937083750020415499' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/937083750020415499" /></a>
   <img alt="what the hell i am listening to" src="https://dev.discordprofiles.me/badge/spotify/937083750020415499" />
+  <img src="https://lanyard.cnrad.dev/api/937083750020415499?bg=333333&borderRadius=10px" />  
+  <img src="https://lanyard.cnrad.dev/api/937083750020415499?bg=333333&borderRadius=10px" />  
 
 
 
