@@ -22,7 +22,7 @@
 <hr />
 
 <div align='left'>
-  <img src="https://lanyard.cnrad.dev/api/280158289667555328?bg=333333&borderRadius=10px" />  
+  <img src="https://lanyard.cnrad.dev/api/937083750020415499?bg=333333&borderRadius=10px" />  
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true" />
