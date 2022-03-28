@@ -1,8 +1,7 @@
-<div alt="Matary 百">
-<h5 align="center">
-<a  a href="https://discord.com/users/937083750020415499">
-  <img src="https://lanyard.cnrad.dev/api/937083750020415499" width="470" height="266" />
-</a>
-</h5>
- </div>
-
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://gh-stats.didinele.me/api/?username=matary1&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://gh-stats.didinele.me/api/top-langs/?username=matary1&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=matary1
