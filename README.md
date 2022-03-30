@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/92306660/160825146-cee86c61-b0a3-426d-9a08-5b2cefcddc2b.png)
-
+![image](https://user-images.githubusercontent.com/92306660/160825969-658d1581-f217-445b-9d75-18d0eab0c42d.png)
 
 # Connect
 
