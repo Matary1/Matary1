@@ -1,8 +1,5 @@
 ![image](https://user-images.githubusercontent.com/92306660/160825146-cee86c61-b0a3-426d-9a08-5b2cefcddc2b.png)
 
-</br>
-</br>
-</br>
 
 # Connect
 
