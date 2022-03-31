@@ -13,6 +13,7 @@
 
 ![Matary1,s GitHub stats](https://github-readme-stats.vercel.app/api?username=Matary1&theme=midnight-yellow&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matary1&theme=midnight-yellow&layout=compact)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
 
                                                   
 ![image](https://user-images.githubusercontent.com/92306660/160825180-3f56b65f-49f8-428f-95aa-3dbc82102189.png)
