@@ -18,6 +18,8 @@
                                                   
 ![image](https://user-images.githubusercontent.com/92306660/160825180-3f56b65f-49f8-428f-95aa-3dbc82102189.png)
 
+---
+[![Join our Discord server](https://discordapp.com/api/guilds/549503328472530974/widget.png?style=banner2)](https://discord.gg/discord-developers)
 
 
 
