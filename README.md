@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matary1&theme=midnight-yellow&layout=compact)
 
 
-div align="center">
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tr3w2oq45dtffgxtkt72ybyiu4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tr3w2oq45dtffgxtkt72ybyiu4&redirect=true)
 </div>
 
