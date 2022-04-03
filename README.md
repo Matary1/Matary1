@@ -27,7 +27,7 @@
 ---
 
 
-onst config = {
+
     
     USERNAME: "6178#4484",
     PICTURE: "assets/img/profile_picture.png",
@@ -49,4 +49,4 @@ onst config = {
         { class_name: "fab fa-twitter", link: "https://twitter.com/discord" },
     ],
 
-}
+
