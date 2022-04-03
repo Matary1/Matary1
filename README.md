@@ -36,6 +36,9 @@
  </div>
 
 
+<p><img alt="Card with Rich Presence" src="./src/assets/example-richpresence.png" /></p>
+
+
 
 
 
