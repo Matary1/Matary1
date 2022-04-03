@@ -17,7 +17,7 @@
 
 div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tr3w2oq45dtffgxtkt72ybyiu4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tr3w2oq45dtffgxtkt72ybyiu4&redirect=true)
- </div>
+</div>
 
  
 ![image](https://user-images.githubusercontent.com/92306660/160825180-3f56b65f-49f8-428f-95aa-3dbc82102189.png)
