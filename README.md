@@ -25,6 +25,14 @@
 ![image](https://user-images.githubusercontent.com/92306660/160825180-3f56b65f-49f8-428f-95aa-3dbc82102189.png)
 
 ---
+<div alt="Im Kind :)">
+<h5 align="center">
+<a  a href="https://discord.com/users/937083750020415499">
+  <img src="https://lanyard.cnrad.dev/api/937083750020415499" width="470" height="266" />
+</a>
+</h5>
+ </div>
+
 
 
 
