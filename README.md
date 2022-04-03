@@ -21,7 +21,7 @@
 ---
 [![Join our Discord server](https://discordapp.com/api/guilds/937083750020415499/widget.png?style=banner2)](https://discord.gg/discord-developers)
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tr3w2oq45dtffgxtkt72ybyiu4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tr3w2oq45dtffgxtkt72ybyiu4&redirect=true)
 
 
 
