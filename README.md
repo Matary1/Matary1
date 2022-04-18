@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Matary1">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,c,cpp,csharp,html,css,sass,go,tailwind,markdown,prisma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,c,cpp,cp,html,css,sass,go,tailwind,markdown,prisma" />
   </a>
 </p>
 </h1>
