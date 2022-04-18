@@ -1,8 +1,8 @@
-</h1>
 <h1 align="center">
     Language 
-  <p align="center">
-      
+</h1>
+
+<p align="center">
   <a href="https://github.com/Matary1">
     <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,sass,go,tailwind,markdown,prisma" />
   </a>
