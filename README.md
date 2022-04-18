@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Matary1">
-    <img src="https://skillicons.dev/icons?i=figma,ps,discord,bots,linkedin,instagram,twitter,mongodb,vscode,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=figma,discord,linkedin,instagram,twitter,mongodb,vscode,gitlab,github" />
   </a>
 </p>
     
