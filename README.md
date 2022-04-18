@@ -16,8 +16,10 @@ Connect To Matary
 
 
 
-# Github Stats
 
+<h1 align="center">
+    GitHub State | Matary100
+</h1>
 ![Matary1,s GitHub stats](https://github-readme-stats.vercel.app/api?username=Matary1&theme=-yellow&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matary1&theme=galexy-yellow&layout=compact)
 
