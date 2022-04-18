@@ -2,7 +2,8 @@
 <h1 align="center">
     Language 
   <p align="center">
-  <a href="https://github.com/pyr33x">
+      
+  <a href="https://github.com/Matary1">
     <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,sass,go,tailwind,markdown,prisma" />
   </a>
 </p>
