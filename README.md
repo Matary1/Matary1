@@ -27,7 +27,7 @@ Connect To Matary
 
 <p align="center">
   <a href="https://github.com/Matary1">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,Pycharm" />
   </a>  
     
 
