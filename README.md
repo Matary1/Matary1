@@ -15,7 +15,7 @@ Connect To Matary
 
 <p align="center">
   <a href="https://github.com/Matary1">
-    <img src="https://skillicons.dev/icons?i=figma,adobe,discord,linkedin,instagram,twitter,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=figma,youtube,discord,linkedin,instagram,twitter,gitlab,github" />
   </a>
 </p>
     
@@ -27,7 +27,7 @@ Connect To Matary
 
 <p align="center">
   <a href="https://github.com/Matary1">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,Pycharm" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio," />
   </a>  
     
 
