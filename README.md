@@ -48,7 +48,7 @@ Connect To Matary
 
 
     e
-    <div alt="ERROR">
+    <div alt="Soroush">
 <h5 align="center">
 <a  a href="https://discord.com/users/1049790183446417408">
   <img src="https://lanyard.cnrad.dev/api/1049790183446417408" width="470" height="266" />
